@@ -1,0 +1,15 @@
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\bin\Debug\net9.0\CoindeskApiClient.exe
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\bin\Debug\net9.0\CoindeskApiClient.deps.json
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\bin\Debug\net9.0\CoindeskApiClient.runtimeconfig.json
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\bin\Debug\net9.0\CoindeskApiClient.dll
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\bin\Debug\net9.0\CoindeskApiClient.pdb
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\obj\Debug\net9.0\CoindeskApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\obj\Debug\net9.0\CoindeskApiClient.AssemblyInfoInputs.cache
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\obj\Debug\net9.0\CoindeskApiClient.AssemblyInfo.cs
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\obj\Debug\net9.0\CoindeskApiClient.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\obj\Debug\net9.0\CoindeskApiClient.sourcelink.json
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\obj\Debug\net9.0\CoindeskApiClient.dll
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\obj\Debug\net9.0\refint\CoindeskApiClient.dll
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\obj\Debug\net9.0\CoindeskApiClient.pdb
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\obj\Debug\net9.0\CoindeskApiClient.genruntimeconfig.cache
+C:\Users\vboxuser\OneDrive - The Principia\Documents\Professional Dev\Class Work\CoindeskApiClient\obj\Debug\net9.0\ref\CoindeskApiClient.dll
